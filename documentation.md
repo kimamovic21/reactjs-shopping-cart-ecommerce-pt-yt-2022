@@ -57,4 +57,13 @@ Link - (https://www.youtube.com/watch?v=tEMrD9t85v4)
 -button elementu sa tekstom Continue Shopping dodajemo onClick dogadaj
 -unutar onClick dogadaja proslijedujemo navigate varijablu
 -u cart.jsx komponenti, unutar div elementa sa klasom checkout, dodajemo uslov totalAmount > 0
--
+
+
+Github pages:
+
+-npm i gh-pages --save-dev
+-package.json -> "homepage": "https://kimamovic21.github.io/reactjs-shopping-cart-ecommerce-pt-yt-2022"
+-package.json -> "predeploy": "npm run build"
+-package.json -> "deploy": "gh-pages -d build"
+-git remote add origin https://github.com/kimamovic21/reactjs-shopping-cart-ecommerce-pt-yt-2022.git
+-npm run deploy
