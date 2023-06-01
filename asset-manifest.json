@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/css/main.dc240957.css",
+    "main.js": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/js/main.c4084569.js",
+    "static/media/samsungs22.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/samsungs22.6f0bd98d6edd1ce6179b.jpg",
+    "static/media/samsungs21.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/samsungs21.1317ba98b96892595626.jpg",
+    "static/media/xiaomiredminote12pro.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/xiaomiredminote12pro.b6f632f39fc4e2c68868.jpg",
+    "static/media/iphone12pro.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/iphone12pro.97fbf9fab59a98cf74d8.jpg",
+    "static/media/samsungs23.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/samsungs23.f2b2b225279a1103ea8e.jpg",
+    "static/media/xiaomiredminote13pro.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/xiaomiredminote13pro.9cb9e4c5418152b29361.jpg",
+    "static/media/xiaomiredminote11pro.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/xiaomiredminote11pro.f88e931bcf3485577855.jpg",
+    "static/media/iphone14pro.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/iphone14pro.bf59fa0adcb939f07f5e.jpg",
+    "static/media/iphone13pro.jpg": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/media/iphone13pro.4ce23c2d154723a43b79.jpg",
+    "index.html": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/index.html",
+    "main.dc240957.css.map": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/css/main.dc240957.css.map",
+    "main.c4084569.js.map": "/reactjs-shopping-cart-ecommerce-pt-yt-2022/static/js/main.c4084569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc240957.css",
+    "static/js/main.c4084569.js"
+  ]
+}
